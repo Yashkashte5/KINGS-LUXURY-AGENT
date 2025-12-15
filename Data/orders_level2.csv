@@ -1,0 +1,5 @@
+OrderID,OrderDate,Country,City,ProductCode,Quantity,OrderValueUSD,FirstTimeCustomer,Channel,DeliverySpeed,CustomerNotes
+KGS001,2025-02-01,UAE,Dubai,K1001,1,4200,Y,Website,Normal,"Gift for self, prefers minimal packaging"
+KGS002,2025-02-02,India,Mumbai,K1010,2,6800,N,WhatsApp,Urgent,"Repeat customer, wants fast delivery"
+KGS003,2025-02-03,UK,London,K1022,1,3100,Y,Website,Normal,"Asking about care and longevity"
+KGS004,2025-02-03,UAE,Abu Dhabi,K1005,3,9200,N,WhatsApp,Urgent,"Buying for anniversary, discreet handling requested"

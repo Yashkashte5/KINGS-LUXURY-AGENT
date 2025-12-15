@@ -1,0 +1,87 @@
+{
+  "KGS001": {
+    "persona_summary": "First-time Kings customer. Located in Dubai, UAE. Engaged via Website.",
+    "experience_tier": "Elevated",
+    "packaging_plan": "Minimal, understated Kings packaging with precision finish",
+    "unboxing_details": "Smooth unboxing highlighting craftsmanship",
+    "copy_whatsapp": "Thank you for choosing Kings. Your piece has been prepared with care and discretion.",
+    "copy_email": "Thank you for choosing Kings. Your piece has been prepared with care and discretion. Should you require any assistance, our team remains at your service.",
+    "post_delivery_sequence": {
+      "Day 1": "Delivery confirmation and care availability check",
+      "Day 7": "Ownership guidance and craftsmanship care note",
+      "Day 21": "Quiet follow-up ensuring long-term satisfaction"
+    },
+    "upsell_recommendation": "Care and maintenance guidance for long-term ownership",
+    "risk_flags": [],
+    "decision_reasons": [
+      "Experience tier determined as Elevated based on order value and urgency",
+      "Customer notes respected where explicitly stated",
+      "Brand restraint prioritized over aggressive enhancement"
+    ]
+  },
+  "KGS002": {
+    "persona_summary": "Returning Kings client. Located in Mumbai, India. Engaged via WhatsApp.",
+    "experience_tier": "Signature",
+    "packaging_plan": "Understated luxury packaging with enhanced detailing",
+    "unboxing_details": "Calm unboxing with subtle reveal and tactile emphasis",
+    "copy_whatsapp": "Thank you for choosing Kings. Your piece has been prepared with care and discretion. We trust it will become part of your personal story.",
+    "copy_email": "Thank you for choosing Kings. Your piece has been prepared with care and discretion. We trust it will become part of your personal story. Should you require any assistance, our team remains at your service.",
+    "post_delivery_sequence": {
+      "Day 1": "Delivery confirmation and care availability check",
+      "Day 7": "Ownership guidance and craftsmanship care note",
+      "Day 21": "Quiet follow-up ensuring long-term satisfaction"
+    },
+    "upsell_recommendation": "Future bespoke customization consultation",
+    "risk_flags": [
+      "Delivery expectations require careful management"
+    ],
+    "decision_reasons": [
+      "Experience tier determined as Signature based on order value and urgency",
+      "Customer notes respected where explicitly stated",
+      "Brand restraint prioritized over aggressive enhancement"
+    ]
+  },
+  "KGS003": {
+    "persona_summary": "First-time Kings customer. Located in London, UK. Engaged via Website.",
+    "experience_tier": "Elevated",
+    "packaging_plan": "Premium Kings packaging, restrained and precise",
+    "unboxing_details": "Smooth unboxing highlighting craftsmanship",
+    "copy_whatsapp": "Thank you for choosing Kings. Your piece has been prepared with care and discretion.",
+    "copy_email": "Thank you for choosing Kings. Your piece has been prepared with care and discretion. Should you require any assistance, our team remains at your service.",
+    "post_delivery_sequence": {
+      "Day 1": "Delivery confirmation and care availability check",
+      "Day 7": "Ownership guidance and craftsmanship care note",
+      "Day 21": "Quiet follow-up ensuring long-term satisfaction"
+    },
+    "upsell_recommendation": "Care and maintenance guidance for long-term ownership",
+    "risk_flags": [],
+    "decision_reasons": [
+      "Experience tier determined as Elevated based on order value and urgency",
+      "Customer notes respected where explicitly stated",
+      "Brand restraint prioritized over aggressive enhancement"
+    ]
+  },
+  "KGS004": {
+    "persona_summary": "Returning Kings client. Located in Abu Dhabi, UAE. Engaged via WhatsApp.",
+    "experience_tier": "VIP",
+    "packaging_plan": "Understated luxury packaging with enhanced detailing",
+    "unboxing_details": "Calm unboxing with subtle reveal and tactile emphasis",
+    "copy_whatsapp": "Thank you for choosing Kings. Your piece has been prepared with care and discretion. We trust it will become part of your personal story.",
+    "copy_email": "Thank you for choosing Kings. Your piece has been prepared with care and discretion. We trust it will become part of your personal story. Should you require any assistance, our team remains at your service.",
+    "post_delivery_sequence": {
+      "Day 1": "Delivery confirmation and care availability check",
+      "Day 7": "Ownership guidance and craftsmanship care note",
+      "Day 21": "Quiet follow-up ensuring long-term satisfaction"
+    },
+    "upsell_recommendation": "Future bespoke customization consultation",
+    "risk_flags": [
+      "Delivery expectations require careful management",
+      "Heightened discretion required"
+    ],
+    "decision_reasons": [
+      "Experience tier determined as VIP based on order value and urgency",
+      "Customer notes respected where explicitly stated",
+      "Brand restraint prioritized over aggressive enhancement"
+    ]
+  }
+}

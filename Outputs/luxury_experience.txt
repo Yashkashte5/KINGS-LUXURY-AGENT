@@ -1,0 +1,119 @@
+ORDER KGS001
+Persona: First-time Kings customer. Located in Dubai, UAE. Engaged via Website.
+Experience Tier: Elevated
+
+Packaging:
+Minimal, understated Kings packaging with precision finish
+
+Unboxing:
+Smooth unboxing highlighting craftsmanship
+
+Customer Communication:
+WhatsApp: Thank you for choosing Kings. Your piece has been prepared with care and discretion.
+Email: Thank you for choosing Kings. Your piece has been prepared with care and discretion. Should you require any assistance, our team remains at your service.
+
+Post-Delivery:
+Day 1: Delivery confirmation and care availability check
+Day 7: Ownership guidance and craftsmanship care note
+Day 21: Quiet follow-up ensuring long-term satisfaction
+
+Upsell:
+Care and maintenance guidance for long-term ownership
+
+Risk Flags:
+None
+
+Decision Rationale:
+- Experience tier determined as Elevated based on order value and urgency
+- Customer notes respected where explicitly stated
+- Brand restraint prioritized over aggressive enhancement
+
+ORDER KGS002
+Persona: Returning Kings client. Located in Mumbai, India. Engaged via WhatsApp.
+Experience Tier: Signature
+
+Packaging:
+Understated luxury packaging with enhanced detailing
+
+Unboxing:
+Calm unboxing with subtle reveal and tactile emphasis
+
+Customer Communication:
+WhatsApp: Thank you for choosing Kings. Your piece has been prepared with care and discretion. We trust it will become part of your personal story.
+Email: Thank you for choosing Kings. Your piece has been prepared with care and discretion. We trust it will become part of your personal story. Should you require any assistance, our team remains at your service.
+
+Post-Delivery:
+Day 1: Delivery confirmation and care availability check
+Day 7: Ownership guidance and craftsmanship care note
+Day 21: Quiet follow-up ensuring long-term satisfaction
+
+Upsell:
+Future bespoke customization consultation
+
+Risk Flags:
+Delivery expectations require careful management
+
+Decision Rationale:
+- Experience tier determined as Signature based on order value and urgency
+- Customer notes respected where explicitly stated
+- Brand restraint prioritized over aggressive enhancement
+
+ORDER KGS003
+Persona: First-time Kings customer. Located in London, UK. Engaged via Website.
+Experience Tier: Elevated
+
+Packaging:
+Premium Kings packaging, restrained and precise
+
+Unboxing:
+Smooth unboxing highlighting craftsmanship
+
+Customer Communication:
+WhatsApp: Thank you for choosing Kings. Your piece has been prepared with care and discretion.
+Email: Thank you for choosing Kings. Your piece has been prepared with care and discretion. Should you require any assistance, our team remains at your service.
+
+Post-Delivery:
+Day 1: Delivery confirmation and care availability check
+Day 7: Ownership guidance and craftsmanship care note
+Day 21: Quiet follow-up ensuring long-term satisfaction
+
+Upsell:
+Care and maintenance guidance for long-term ownership
+
+Risk Flags:
+None
+
+Decision Rationale:
+- Experience tier determined as Elevated based on order value and urgency
+- Customer notes respected where explicitly stated
+- Brand restraint prioritized over aggressive enhancement
+
+ORDER KGS004
+Persona: Returning Kings client. Located in Abu Dhabi, UAE. Engaged via WhatsApp.
+Experience Tier: VIP
+
+Packaging:
+Understated luxury packaging with enhanced detailing
+
+Unboxing:
+Calm unboxing with subtle reveal and tactile emphasis
+
+Customer Communication:
+WhatsApp: Thank you for choosing Kings. Your piece has been prepared with care and discretion. We trust it will become part of your personal story.
+Email: Thank you for choosing Kings. Your piece has been prepared with care and discretion. We trust it will become part of your personal story. Should you require any assistance, our team remains at your service.
+
+Post-Delivery:
+Day 1: Delivery confirmation and care availability check
+Day 7: Ownership guidance and craftsmanship care note
+Day 21: Quiet follow-up ensuring long-term satisfaction
+
+Upsell:
+Future bespoke customization consultation
+
+Risk Flags:
+Delivery expectations require careful management, Heightened discretion required
+
+Decision Rationale:
+- Experience tier determined as VIP based on order value and urgency
+- Customer notes respected where explicitly stated
+- Brand restraint prioritized over aggressive enhancement

@@ -1,0 +1,6 @@
+OrderID,OrderDate,Country,City,ProductCode,Quantity,OrderValueUSD,FirstTimeCustomer,Channel,DeliverySpeed,CustomerNotes
+KX-201,2025-03-01,UAE,Dubai,K1001,1,185000,Y,Email,Normal,
+KX-202,2025-03-02,India,Mumbai,K1010,2,42000,N,WhatsApp,Urgent,Need this soon for anniversary
+KX-203,2025-03-03,UK,London,K1022,1,310000,Y,Phone,Urgent,Urgent but no rush, traveling next week
+KX-204,2025-03-04,India,Pune,K1005,3,18000,Y,Email,Normal,First luxury purchase, slightly nervous
+KX-205,2025-03-05,USA,New York,K1010,1,950000,N,Phone,Normal,Please do not over-communicate, minimal updates only
