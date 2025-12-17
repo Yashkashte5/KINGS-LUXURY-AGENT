@@ -1,6 +1,6 @@
 OrderID,OrderDate,Country,City,ProductCode,Quantity,OrderValueUSD,FirstTimeCustomer,Channel,DeliverySpeed,CustomerNotes
-KX-201,2025-03-01,UAE,Dubai,K1001,1,185000,Y,Email,Normal,
-KX-202,2025-03-02,India,Mumbai,K1010,2,42000,N,WhatsApp,Urgent,Need this soon for anniversary
-KX-203,2025-03-03,UK,London,K1022,1,310000,Y,Phone,Urgent,Urgent but no rush, traveling next week
-KX-204,2025-03-04,India,Pune,K1005,3,18000,Y,Email,Normal,First luxury purchase, slightly nervous
-KX-205,2025-03-05,USA,New York,K1010,1,950000,N,Phone,Normal,Please do not over-communicate, minimal updates only
+KGS101,2025-02-10,India,Mumbai,K1009,1,2800,Y,Email,Normal,"Hi — this is my first purchase. I’m travelling next Friday and won’t be home after that, so hoping it reaches before I leave. If not, please let me know."
+KGS102,2025-02-11,UAE,Dubai,K1015,2,8500,N,WhatsApp,,"I’ve bought from you before. This one is a gift. Please don’t put anything on the box that makes it obvious what it is."
+KGS103,2025-02-12,UK,London,K1027,1,1900,Y,Website,Normal,"Not in a rush. Mostly curious how long these usually last and how to take care of them properly."
+KGS104,2025-02-13,USA,New York,K1031,3,12500,N,Email,Urgent,"This is for an anniversary. Partner will be home only on Tuesday. I don’t want any delays or follow-ups that ruin the surprise."
+KGS105,2025-02-14,Singapore,Singapore,K1040,1,4200,Y,Website,,"Honestly I don’t know much about your brand, but I liked the design. Just want a smooth experience, nothing flashy."

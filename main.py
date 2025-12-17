@@ -1,29 +1,41 @@
+import pandas as pd
 import json
-from src.loader import load_orders, load_brand_rules
-from src.experience_engine import generate_experience
+from agent.strategist import generate_experiences_for_orders
 
-DATA_DIR = "data"
-OUTPUT_DIR = "outputs"
+def extract_order_id(order: dict) -> str:
+    order_id = order.get("OrderID") or order.get("order_id")
+    if not order_id:
+        raise ValueError("Order ID missing from input data")
+    return str(order_id)
 
 def main():
-    orders = load_orders(f"{DATA_DIR}/orders_level2.csv")
-    brand_rules = load_brand_rules(f"{DATA_DIR}/kings_brand_rules.txt")
+    # Load orders from CSV
+    orders = pd.read_csv("data/orders_level2.csv").to_dict(orient="records")
 
-    luxury_json = {}
-    luxury_text_blocks = []
+    # Load Kings brand rules for AI context
+    with open("data/kings_brand_rules.txt", "r", encoding="utf-8") as f:
+        brand_rules = f.read()
 
-    for order in orders:
-        json_block, text_block = generate_experience(order, brand_rules)
-        luxury_json[order["OrderID"]] = json_block
-        luxury_text_blocks.append(text_block)
+    # Generate AI Agent experiences
+    all_outputs = generate_experiences_for_orders(orders, brand_rules)
 
-    with open(f"{OUTPUT_DIR}/luxury_experience.json", "w", encoding="utf-8") as f:
-        json.dump(luxury_json, f, indent=2)
+    # Ensure every order has correct ID
+    for i, order in enumerate(orders):
+        if all_outputs[i]["order_id"] == "UNKNOWN":
+            all_outputs[i]["order_id"] = extract_order_id(order)
 
-    with open(f"{OUTPUT_DIR}/luxury_experience.txt", "w", encoding="utf-8") as f:
-        f.write("\n\n".join(luxury_text_blocks))
+    # Save as JSON
+    with open("outputs/luxury_experience.json", "w", encoding="utf-8") as f:
+        json.dump(all_outputs, f, indent=2, ensure_ascii=False)
 
-    print("Luxury experience outputs generated successfully.")
+    # Save human-readable TXT for review
+    with open("outputs/luxury_experience.txt", "w", encoding="utf-8") as f:
+        for item in all_outputs:
+            f.write(f"Order ID: {item['order_id']}\n")
+            f.write(json.dumps(item["experience"], indent=2, ensure_ascii=False))
+            f.write("\n\n")
+
+    print("Luxury experiences generated successfully!")
 
 if __name__ == "__main__":
     main()
